@@ -3,10 +3,10 @@ all the combinations mentioned in [1]. Their cryptographic properties are also c
 It is required to have 2GB disk space to save all the functions. The code is compiled with Microsoft Visual C++ 2010.
 
 The following files are needed to run the code:
-"Reprs15.txt":  		Contains all the orbits for 15-variable RSBFs
-"Reprs15_3.txt: 		Contains all the orbits for 15-variable 3-RSBFs
-"Combinations_d8.txt": 	Contains all the combinations found in [1], giving 1-resilient functions with nonlinearity 16264 from the PW function with degree 8
-"Combinations_d9.txt": 	Contains all the combinations found in [1], giving 1-resilient functions with nonlinearity 16264 from the PW function with degree 9
+"Reprs15.txt":        Contains all the orbits for 15-variable RSBFs
+"Reprs15_3.txt:       Contains all the orbits for 15-variable 3-RSBFs
+"Combinations_d8.txt":Contains all the combinations found in [1], giving 1-resilient functions with nonlinearity 16264 from the PW function with degree 8
+"Combinations_d9.txt":Contains all the combinations found in [1], giving 1-resilient functions with nonlinearity 16264 from the PW function with degree 9
 The other combinations in [1] are defined as the elements of the corresponding arrays in "comb2fun.cpp".
 
 The code generates the following files:
