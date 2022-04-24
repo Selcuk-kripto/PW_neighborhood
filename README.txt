@@ -1,5 +1,4 @@
-The code "comb2fun.cpp" produces and saves the truth tables of the Boolean functions which are obtained from the Patterson-Wiedemann (PW) functions using 
-all the combinations mentioned in [1]. Their cryptographic properties are also computed and classified.
+The code "comb2fun.cpp" produces and saves the truth tables of the Boolean functions which are obtained from the Patterson-Wiedemann (PW) functions using all the combinations mentioned in [1]. Their cryptographic properties are also computed and classified.
 It is required to have 2GB disk space to save all the functions. The code is compiled with Microsoft Visual C++ 2010.
 
 The following files are needed to run the code:
