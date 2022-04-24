@@ -10,7 +10,7 @@ The following files are needed to run the code:
 The other combinations in [1] are defined as the elements of the corresponding arrays in "comb2fun.cpp".
 
 The code generates the following files:
-"Stats.txt": 		Counter used to classify the results in terms of absolute indicator and algebraic degree
+"Stats.txt": 		    Counter used to classify the results in terms of absolute indicator and algebraic degree
 "d8_16264_res.txt": 1-resilient functions with nonlinearity 16264 obtained from the PW function with degree 8
 "d9_16264_res.txt":	1-resilient functions with nonlinearity 16264 obtained from the PW function with degree 9
 "d8_16272_bal.txt":	Balanced functions with nonlinearity 16272 obtained from the PW function with degree 8 
@@ -21,4 +21,4 @@ The code generates the following files:
 
 Written by Selçuk Kavut, Balikesir University, Turkey.
 
-[1] S. Kavut. Improved cryptographic properties of Boolean functions obtained  from the neighbourhood of Patterson-Wiedemann functions. 
+[1] S. Kavut. Improved cryptographic properties of Boolean functions obtained from the neighbourhood of Patterson-Wiedemann functions. 
