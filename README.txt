@@ -10,10 +10,10 @@ The following files are needed to run the code:
 The other combinations in [1] are defined as the elements of the corresponding arrays in "comb2fun.cpp".
 
 The code generates the following files:
-"Stats.txt": 		    Counter used to classify the results in terms of absolute indicator and algebraic degree
+"Stats.txt":        Counter used to classify the results in terms of absolute indicator and algebraic degree
 "d8_16264_res.txt": 1-resilient functions with nonlinearity 16264 obtained from the PW function with degree 8
-"d9_16264_res.txt":	1-resilient functions with nonlinearity 16264 obtained from the PW function with degree 9
-"d8_16272_bal.txt":	Balanced functions with nonlinearity 16272 obtained from the PW function with degree 8 
+"d9_16264_res.txt": 1-resilient functions with nonlinearity 16264 obtained from the PW function with degree 9
+"d8_16272_bal.txt": Balanced functions with nonlinearity 16272 obtained from the PW function with degree 8 
 "d9_16272_bal.txt": Balanced functions with nonlinearity 16272 obtained from the PW function with degree 9 
 "d8_16266_192.txt": Balanced functions with nonlinearity 16266 and absolute indicator 192 obtained from the PW function with degree 8
 "d8_16268_192.txt": Balanced functions with nonlinearity 16268 and absolute indicator 192 obtained from the PW function with degree 8
